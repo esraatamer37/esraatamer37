@@ -42,7 +42,7 @@
 
 ###
 
-![Snake animation](https://esraatamer37.github.io/esraatamer37/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/esraatamer37/esraatamer37/main/dist/snake.svg)
 
 
 ###
