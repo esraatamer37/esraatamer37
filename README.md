@@ -42,7 +42,7 @@
 
 ###
 
-![Snake animation](https://github.com/esraatamer37/esraatamer37/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://esraatamer37.github.io/esraatamer37/snake.svg)
 
 
 ###
